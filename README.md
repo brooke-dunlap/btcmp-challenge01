@@ -12,11 +12,7 @@ N/A
 
 The homepage is designed to provide information regarding social media, advertising, and marketing strategies. To go to specific parts of the page, click on the links at the top titled: "Search Engine Optimization"; "Online Reputation management"; "Social Media Marketing"
 
-Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![alt text](Develop\assets\images\Horiseon Mock site.png)
 
 ## Credits
 
