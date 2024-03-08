@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*This class */
+/*This class provides styling to the header of the page*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -16,7 +16,6 @@ body {
     color: #ffffff;
 }
 
-/*This class */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -26,7 +25,7 @@ body {
     color: #d9dcd6;
 }
 
-/*This class */
+/*This class provides styling to the section inside the header*/
 .header section {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,9 +34,6 @@ body {
     font-size: 20px;
 }
 
-.header section ul {
-    list-style-type: none;
-}
 
 .header section ul li {
     display: inline-block;
@@ -53,6 +49,7 @@ p {
     font-size: 16px;
 }
 
+/*Provides positioning and size for the main picture on the page*/
 .hero {
     height: 800px;
     width: 100%;
@@ -72,6 +69,7 @@ p {
     margin-left: 25px;
 }
 
+/*T*/
 .content {
     width: 75%;
     display: inline-block;
@@ -198,6 +196,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
