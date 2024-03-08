@@ -69,13 +69,14 @@ p {
     margin-left: 25px;
 }
 
-/*T*/
+/*This class provides the box size, display, and margin for lead generation, brand awareness, and cost management articles*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*This class provides the aside box properties and values */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -189,6 +190,7 @@ p {
     font-size: 36px;
 }
 
+/*This class provides styles to the footer*/
 .footer {
     padding: 30px;
     clear: both;
